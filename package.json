@@ -1,0 +1,27 @@
+{
+  "name": "execute-py",
+  "version": "1.0.0",
+  "description": "\"Execute python scripts from Node.js code\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeLikeAyush/execute-py.git"
+  },
+  "keywords": [
+    "python",
+    "execute",
+    "child process",
+    "integration",
+    "node-python",
+    "script"
+  ],
+  "author": "Ayush Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeLikeAyush/execute-py/issues"
+  },
+  "homepage": "https://github.com/CodeLikeAyush/execute-py#readme"
+}
